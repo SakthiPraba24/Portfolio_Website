@@ -35,14 +35,23 @@ A responsive, modern portfolio website showcasing my skills, projects, education
 
 ### 📂 Project Structure
 portfolio-website/
+
  assets/
+ 
    -image.jpeg
+   
    -SAKTHI PRABA M.pdf
+   
  index.html
+ 
  styles.css
+ 
  script.js        # Theme toggle
+ 
  script1.js       # Animated text
+ 
  script2.js       # Menu toggle
+ 
  README.md
 
 
