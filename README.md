@@ -1,5 +1,6 @@
 # Portfolio_Website
 
+
 ### Sakthi Praba M | Personal Portfolio Website
 
 A responsive, modern portfolio website showcasing my skills, projects, education, and contact information. Built to highlight my work as a Web and Software Developer.
@@ -47,3 +48,11 @@ portfolio-website/
 
 
 The website features a homepage, about section, skills, projects, and contact information, all in a modern and clean layout.
+
+This website adds my portfolio which contains...
+
+- Home page with introduction
+- Projects section showcasing work
+- Contact form with email link
+- Responsive design for mobile and desktop
+
